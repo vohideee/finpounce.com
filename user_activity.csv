@@ -1,0 +1,295 @@
+Category,Date,Cost,BalanceBefore,FavoriteCategory
+Grocery,1/15/2023,30,530,Grocery
+Entertainment,1/20/2023,50,480,Entertainment
+Technology,1/25/2023,200,430,Technology
+Subscriptions,2/2/2023,10,420,Technology
+Clothes,2/10/2023,80,340,Technology
+Fast Food,2/15/2023,15,325,Technology
+Other,2/20/2023,40,285,Technology
+Grocery,3/1/2023,45,240,Technology
+Entertainment,3/10/2023,60,180,Technology
+Technology,3/20/2023,180,100,Technology
+Subscriptions,4/5/2023,10,90,Technology
+Clothes,4/12/2023,370,390,Clothes
+Fast Food,4/18/2023,20,0,Clothes
+Other,4/25/2023,30,120,Clothes
+Grocery,5/3/2023,325,95,Grocery
+Entertainment,5/10/2023,40,50,Grocery
+Technology,5/20/2023,10,40,Grocery
+Subscriptions,6/2/2023,400,1345,Subscriptions
+Clothes,6/10/2023,145,945,Clothes
+Fast Food,6/15/2023,250,800,Clothes
+Other,6/22/2023,25,550,Clothes
+Grocery,7/1/2023,35,525,Clothes
+Entertainment,7/10/2023,645,990,Entertainment
+Technology,7/20/2023,170,320,Entertainment
+Subscriptions,8/2/2023,15,500,Entertainment
+Clothes,8/10/2023,50,450,Entertainment
+Fast Food,8/15/2023,400,550,Fast Food
+Other,8/22/2023,80,150,Fast Food
+Grocery,9/1/2023,20,70,Fast Food
+Entertainment,9/10/2023,35,50,Fast Food
+Technology,9/20/2023,160,170,Technology
+Subscriptions,10/2/2023,12,20,Technology
+Clothes,10/10/2023,40,220,Technology
+Fast Food,10/15/2023,16,180,Technology
+Other,10/22/2023,860,984,Other
+Grocery,11/1/2023,40,124,Other
+Entertainment,11/10/2023,540,570,Entertainment
+Technology,11/20/2023,190,270,Entertainment
+Subscriptions,12/2/2023,5,80,Entertainment
+Clothes,12/10/2023,45,75,Entertainment
+Fast Food,12/15/2023,20,82,Entertainment
+Other,12/22/2023,32,62,Entertainment
+Grocery,1/5/2024,25,37,Grocery
+Entertainment,1/10/2024,80,140,Entertainment
+Technology,1/15/2024,150,250,Technology
+Subscriptions,2/1/2024,10,240,Technology
+Clothes,2/8/2024,40,200,Technology
+Fast Food,2/15/2024,20,180,Technology
+Other,2/22/2024,30,150,Technology
+Grocery,3/5/2024,35,115,Technology
+Entertainment,3/12/2024,70,45,Technology
+Technology,3/20/2024,120,0,Technology
+Subscriptions,4/1/2024,15,25,Technology
+Clothes,4/10/2024,300,325,Clothes
+Fast Food,4/18/2024,15,10,Clothes
+Other,4/25/2024,25,35,Clothes
+Grocery,5/3/2024,300,405,Grocery
+Entertainment,5/10/2024,25,380,Grocery
+Technology,5/20/2024,20,360,Grocery
+Subscriptions,6/1/2024,400,1200,Subscriptions
+Clothes,6/10/2024,120,1080,Clothes
+Fast Food,6/15/2024,180,900,Clothes
+Other,6/22/2024,25,675,Clothes
+Grocery,7/1/2024,30,645,Clothes
+Entertainment,7/10/2024,400,1045,Entertainment
+Technology,7/20/2024,80,965,Entertainment
+Subscriptions,8/1/2024,10,955,Entertainment
+Clothes,8/10/2024,40,915,Entertainment
+Fast Food,8/15/2024,200,715,Fast Food
+Other,8/22/2024,35,680,Fast Food
+Grocery,9/1/2024,15,665,Fast Food
+Entertainment,9/10/2024,20,645,Fast Food
+Technology,9/20/2024,80,565,Technology
+Subscriptions,10/1/2024,8,557,Technology
+Clothes,10/10/2024,30,527,Technology
+Fast Food,10/15/2024,12,515,Technology
+Other,10/22/2024,450,965,Other
+Grocery,11/1/2024,20,945,Other
+Entertainment,11/10/2024,300,645,Entertainment
+Technology,11/20/2024,100,545,Entertainment
+Subscriptions,12/1/2024,5,540,Entertainment
+Clothes,12/10/2024,30,510,Entertainment
+Fast Food,12/15/2024,15,495,Entertainment
+Other,12/22/2024,20,475,Entertainment
+Grocery,1/5/2025,25,450,Entertainment
+Entertainment,1/10/2025,70,380,Entertainment
+Technology,1/15/2025,120,260,Technology
+Subscriptions,2/1/2025,8,252,Technology
+Clothes,2/8/2025,35,217,Technology
+Fast Food,2/15/2025,18,199,Technology
+Other,2/22/2025,40,159,Technology
+Grocery,3/5/2025,30,129,Technology
+Entertainment,3/12/2025,60,69,Technology
+Technology,3/20/2025,140,0,Technology
+Subscriptions,4/1/2025,12,12,Technology
+Clothes,4/10/2025,250,262,Clothes
+Fast Food,4/18/2025,12,250,Clothes
+Other,4/25/2025,20,230,Clothes
+Grocery,5/3/2025,280,510,Grocery
+Entertainment,5/10/2025,30,480,Grocery
+Technology,5/20/2025,15,465,Grocery
+Subscriptions,6/1/2025,350,815,Subscriptions
+Clothes,6/10/2025,100,715,Clothes
+Fast Food,6/15/2025,150,565,Clothes
+Other,6/22/2025,18,547,Clothes
+Grocery,7/1/2025,25,522,Clothes
+Entertainment,7/10/2025,420,942,Entertainment
+Technology,7/20/2025,90,852,Entertainment
+Subscriptions,8/1/2025,8,844,Entertainment
+Clothes,8/10/2025,30,814,Entertainment
+Fast Food,8/15/2025,180,634,Fast Food
+Other,8/22/2025,25,609,Fast Food
+Grocery,9/1/2025,12,597,Fast Food
+Entertainment,9/10/2025,18,579,Fast Food
+Technology,9/20/2025,70,509,Technology
+Subscriptions,10/1/2025,10,499,Technology
+Clothes,10/10/2025,25,474,Technology
+Fast Food,10/15/2025,8,466,Technology
+Other,10/22/2025,400,866,Other
+Grocery,11/1/2025,15,851,Other
+Entertainment,11/10/2025,250,601,Entertainment
+Technology,11/20/2025,80,521,Entertainment
+Subscriptions,12/1/2025,5,516,Entertainment
+Clothes,12/10/2025,25,491,Entertainment
+Fast Food,12/15/2025,12,479,Entertainment
+Other,12/22/2025,15,464,Entertainment
+Grocery,1/15/2023,30,530,Grocery
+Entertainment,1/20/2023,50,480,Entertainment
+Technology,1/25/2023,200,430,Technology
+Subscriptions,2/2/2023,10,420,Technology
+Clothes,2/10/2023,80,340,Technology
+Fast Food,2/15/2023,15,325,Technology
+Other,2/20/2023,40,285,Technology
+Grocery,3/1/2023,45,240,Technology
+Entertainment,3/10/2023,60,180,Technology
+Technology,3/20/2023,180,100,Technology
+Subscriptions,4/5/2023,10,90,Technology
+Clothes,4/12/2023,370,390,Clothes
+Fast Food,4/18/2023,20,0,Clothes
+Other,4/25/2023,30,120,Clothes
+Grocery,5/3/2023,325,95,Grocery
+Entertainment,5/10/2023,40,50,Grocery
+Technology,5/20/2023,10,40,Grocery
+Subscriptions,6/2/2023,400,1345,Subscriptions
+Clothes,6/10/2023,145,945,Clothes
+Fast Food,6/15/2023,250,800,Clothes
+Other,6/22/2023,25,550,Clothes
+Grocery,7/1/2023,35,525,Clothes
+Entertainment,7/10/2023,645,990,Entertainment
+Technology,7/20/2023,170,320,Entertainment
+Subscriptions,8/2/2023,15,500,Entertainment
+Clothes,8/10/2023,50,450,Entertainment
+Fast Food,8/15/2023,400,550,Fast Food
+Other,8/22/2023,80,150,Fast Food
+Grocery,9/1/2023,20,70,Fast Food
+Entertainment,9/10/2023,35,50,Fast Food
+Technology,9/20/2023,160,170,Technology
+Subscriptions,10/2/2023,12,20,Technology
+Clothes,10/10/2023,40,220,Technology
+Fast Food,10/15/2023,16,180,Technology
+Other,10/22/2023,860,984,Other
+Grocery,11/1/2023,40,124,Other
+Entertainment,11/10/2023,540,570,Entertainment
+Technology,11/20/2023,190,270,Entertainment
+Subscriptions,12/2/2023,5,80,Entertainment
+Clothes,12/10/2023,45,75,Entertainment
+Fast Food,12/15/2023,20,82,Entertainment
+Other,12/22/2023,32,62,Entertainment
+Grocery,1/5/2024,25,37,Grocery
+Entertainment,1/10/2024,80,140,Entertainment
+Technology,1/15/2024,150,250,Technology
+Subscriptions,2/1/2024,10,240,Technology
+Clothes,2/8/2024,40,200,Technology
+Fast Food,2/15/2024,20,180,Technology
+Other,2/22/2024,30,150,Technology
+Grocery,3/5/2024,35,115,Technology
+Entertainment,3/12/2024,70,45,Technology
+Technology,3/20/2024,120,0,Technology
+Subscriptions,4/1/2024,15,25,Technology
+Clothes,4/10/2024,300,325,Clothes
+Fast Food,4/18/2024,15,10,Clothes
+Other,4/25/2024,25,35,Clothes
+Grocery,5/3/2024,300,405,Grocery
+Entertainment,5/10/2024,25,380,Grocery
+Technology,5/20/2024,20,360,Grocery
+Subscriptions,6/1/2024,400,1200,Subscriptions
+Clothes,6/10/2024,120,1080,Clothes
+Fast Food,6/15/2024,180,900,Clothes
+Other,6/22/2024,25,675,Clothes
+Grocery,7/1/2024,30,645,Clothes
+Entertainment,7/10/2024,400,1045,Entertainment
+Technology,7/20/2024,80,965,Entertainment
+Subscriptions,8/1/2024,10,955,Entertainment
+Clothes,8/10/2024,40,915,Entertainment
+Fast Food,8/15/2024,200,715,Fast Food
+Other,8/22/2024,35,680,Fast Food
+Grocery,9/1/2024,15,665,Fast Food
+Entertainment,9/10/2024,20,645,Fast Food
+Technology,9/20/2024,80,565,Technology
+Subscriptions,10/1/2024,8,557,Technology
+Clothes,10/10/2024,30,527,Technology
+Fast Food,10/15/2024,12,515,Technology
+Other,10/22/2024,450,965,Other
+Grocery,11/1/2024,20,945,Other
+Entertainment,11/10/2024,300,645,Entertainment
+Technology,11/20/2024,100,545,Entertainment
+Subscriptions,12/1/2024,5,540,Entertainment
+Clothes,12/10/2024,30,510,Entertainment
+Fast Food,12/15/2024,15,495,Entertainment
+Other,12/22/2024,20,475,Entertainment
+Grocery,1/5/2025,25,450,Entertainment
+Entertainment,1/10/2025,70,380,Entertainment
+Technology,1/15/2025,120,260,Technology
+Subscriptions,2/1/2025,8,252,Technology
+Clothes,2/8/2025,35,217,Technology
+Fast Food,2/15/2025,18,199,Technology
+Other,2/22/2025,40,159,Technology
+Grocery,3/5/2025,30,129,Technology
+Entertainment,3/12/2025,60,69,Technology
+Technology,3/20/2025,140,0,Technology
+Subscriptions,4/1/2025,12,12,Technology
+Clothes,4/10/2025,250,262,Clothes
+Fast Food,4/18/2025,12,250,Clothes
+Other,4/25/2025,20,230,Clothes
+Grocery,5/3/2025,280,510,Grocery
+Entertainment,5/10/2025,30,480,Grocery
+Technology,5/20/2025,15,465,Grocery
+Subscriptions,6/1/2025,350,815,Subscriptions
+Clothes,6/10/2025,100,715,Clothes
+Fast Food,6/15/2025,150,565,Clothes
+Other,6/22/2025,18,547,Clothes
+Grocery,7/1/2025,25,522,Clothes
+Entertainment,7/10/2025,420,942,Entertainment
+Technology,7/20/2025,90,852,Entertainment
+Subscriptions,8/1/2025,8,844,Entertainment
+Clothes,8/10/2025,30,814,Entertainment
+Fast Food,8/15/2025,180,634,Fast Food
+Other,8/22/2025,25,609,Fast Food
+Grocery,9/1/2025,12,597,Fast Food
+Entertainment,9/10/2025,18,579,Fast Food
+Technology,9/20/2025,70,509,Technology
+Subscriptions,10/1/2025,10,499,Technology
+Clothes,10/10/2025,25,474,Technology
+Fast Food,10/15/2025,8,466,Technology
+Other,10/22/2025,400,866,Other
+Grocery,11/1/2025,15,851,Other
+Entertainment,11/10/2025,250,601,Entertainment
+Technology,11/20/2025,80,521,Entertainment
+Subscriptions,12/1/2025,5,516,Entertainment
+Clothes,12/10/2025,25,491,Entertainment
+Fast Food,12/15/2025,12,479,Entertainment
+Other,12/22/2025,15,464,Entertainment
+Grocery,1/5/2026,40,800,Grocery
+Entertainment,1/10/2026,100,700,Entertainment
+Technology,1/15/2026,150,550,Technology
+Subscriptions,2/1/2026,15,535,Technology
+Clothes,2/8/2026,25,510,Technology
+Fast Food,2/15/2026,20,490,Technology
+Other,2/22/2026,35,455,Technology
+Grocery,3/5/2026,45,410,Technology
+Entertainment,3/12/2026,60,350,Technology
+Technology,3/20/2026,180,170,Technology
+Subscriptions,4/1/2026,8,162,Technology
+Clothes,4/10/2026,30,132,Clothes
+Fast Food,4/18/2026,15,117,Clothes
+Other,4/25/2026,20,97,Clothes
+Grocery,5/3/2026,200,297,Grocery
+Entertainment,5/10/2026,25,272,Grocery
+Technology,5/20/2026,15,257,Grocery
+Subscriptions,6/1/2026,180,437,Subscriptions
+Clothes,6/10/2026,80,357,Clothes
+Fast Food,6/15/2026,100,257,Clothes
+Other,6/22/2026,15,242,Clothes
+Grocery,7/1/2026,25,217,Clothes
+Entertainment,7/10/2026,250,467,Entertainment
+Technology,7/20/2026,50,417,Entertainment
+Subscriptions,8/1/2026,8,409,Entertainment
+Clothes,8/10/2026,25,384,Entertainment
+Fast Food,8/15/2026,150,234,Fast Food
+Other,8/22/2026,20,214,Fast Food
+Grocery,9/1/2026,12,202,Fast Food
+Entertainment,9/10/2026,15,187,Fast Food
+Technology,9/20/2026,60,127,Technology
+Subscriptions,10/1/2026,10,117,Technology
+Clothes,10/10/2026,25,92,Technology
+Fast Food,10/15/2026,8,84,Technology
+Other,10/22/2026,300,384,Other
+Grocery,11/1/2026,20,364,Other
+Entertainment,11/10/2026,180,184,Entertainment
+Technology,11/20/2026,80,104,Entertainment
+Subscriptions,12/1/2026,5,99,Entertainment
+Clothes,12/10/2026,15,84,Entertainment
+Fast Food,12/15/2026,8,76,Entertainment
+Other,12/22/2026,10,66,Entertainment
